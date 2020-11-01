@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+.landing_component {
+	background:linear-gradient(0deg, rgba(0,0,0,.3), rgba(0,0,0,.3)), url(./banner-home.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	font-family: 'Raleway', sans-serif;
+}
+.landing_component a{
+	text-decoration: none;
+}
+.landing_component h1 {
+	
+}
+.view_link{
+		background-color: #03a9f4!important;
+		color:#fff!important;
+		border-color: transparent!important;
+		font-family: 'Raleway',sans-serif!important;
+}
+.view_link:hover{
+background-color: #0692d2!important;
+	border-color: transparent!important;
+	text-decoration: none!important;
+}

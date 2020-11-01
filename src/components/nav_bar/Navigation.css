@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+.nav_bar {
+	background-color: #03a9f4;
+	font-family: 'Raleway', sans-serif;
+	
+	letter-spacing: .1rem;
+	text-transform: capitalize;
+	font-size: 1.1rem;
+	box-shadow: 1px 1px 5px 1px rgba(0,0,0,.5);
+}
+.navbar-toggler-icon{
+
+}
+nav a:hover {
+	text-decoration: none;
+	color:lightgrey;
+}
+nav a.active{
+color:#fff;
+}
+nav a{
+	position: relative;
+	color:#e3f2fd;
+	margin-left: 1rem;
+}
+.navbar-nav{
+	justify-content: flex-end;
+}
+.count{
+	position: absolute;
+	bottom:70%;
+	left: 70%;
+	font-size: .8rem;
+	background-color: 
+}
+@media only screen and (max-width: 572px) {
+	nav a{
+		margin-top: 1rem;
+	}
+	.count{
+		position: absolute;
+		left:5%;
+	}
+}

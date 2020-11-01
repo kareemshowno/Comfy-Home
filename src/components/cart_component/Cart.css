@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+.cart_component{
+	font-family: 'Raleway',sans-serif;
+	overflow-x: hidden;
+}
+.table{
+	border: none!important;
+}
+.pay_but{
+	border-color: #fff!important;
+	border-radius: 1.5rem!important;
+}
+.pay_but:hover {
+	border-color: #03a9f4!important;
+}
+.pay_but:focus{
+border-radius: 0!important;
+border-color: #03a9f4!important;
+border:none!important;
+}
+.checkout_button{
+	background-color: #03a9f4!important;
+
+}
+.payment a {
+	text-decoration: none;
+}
+.checkout_button:hover{
+	background-color: #0692d2!important;
+	border-color: transparent!important;
+	box-shadow: 1px 1px 3px 1px rgba(255,255,255,.5)!important;
+}
+.checkout_button:focus{
+	border-color: transparent!important;
+}
+.checkout_com{
+	font-family: 'Raleway',sans-serif;
+}
+@media screen only and (max-width: 576px){
+.payment{
+	margin-left: 0!important;
+	padding-right: 1rem!important;
+}
+.cart_component{
+	font-size: .7rem!important;
+	overflow-x: hidden!important;
+}
+
+
+
+
+}
