@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Comfy-Home/static/css/main.86d5b285.chunk.css",
+    "main.js": "/Comfy-Home/static/js/main.74c1d7d2.chunk.js",
+    "main.js.map": "/Comfy-Home/static/js/main.74c1d7d2.chunk.js.map",
+    "runtime-main.js": "/Comfy-Home/static/js/runtime-main.329b7d2e.js",
+    "runtime-main.js.map": "/Comfy-Home/static/js/runtime-main.329b7d2e.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Comfy-Home/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d8033eca.chunk.js": "/Comfy-Home/static/js/2.d8033eca.chunk.js",
+    "static/js/2.d8033eca.chunk.js.map": "/Comfy-Home/static/js/2.d8033eca.chunk.js.map",
+    "static/js/3.a2b4bf58.chunk.js": "/Comfy-Home/static/js/3.a2b4bf58.chunk.js",
+    "static/js/3.a2b4bf58.chunk.js.map": "/Comfy-Home/static/js/3.a2b4bf58.chunk.js.map",
+    "index.html": "/Comfy-Home/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Comfy-Home/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.86d5b285.chunk.css.map": "/Comfy-Home/static/css/main.86d5b285.chunk.css.map",
+    "static/js/2.d8033eca.chunk.js.LICENSE.txt": "/Comfy-Home/static/js/2.d8033eca.chunk.js.LICENSE.txt",
+    "static/media/Landing_Component.css": "/Comfy-Home/static/media/banner-home.5ba7f412.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.329b7d2e.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d8033eca.chunk.js",
+    "static/css/main.86d5b285.chunk.css",
+    "static/js/main.74c1d7d2.chunk.js"
+  ]
+}
